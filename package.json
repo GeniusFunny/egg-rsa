@@ -1,6 +1,6 @@
 {
-  "name": "egg-rsa",
-  "version": "1.0.0",
+  "name": "egg-rsa-plugin",
+  "version": "0.1.0",
   "description": "",
   "eggPlugin": {
     "name": "rsa"
@@ -8,7 +8,8 @@
   "keywords": [
     "egg",
     "eggPlugin",
-    "egg-plugin"
+    "egg-plugin",
+    "rsa"
   ],
   "dependencies": {},
   "devDependencies": {
@@ -44,12 +45,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-rsa.git"
+    "url": "git+https://github.com/GeniusFunny/egg-rsa"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/GeniusFunny/egg-rsa/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-rsa#readme",
-  "author": "",
+  "homepage": "https://github.com/GeniusFunny/egg-rsa#readme",
+  "author": "GeniusFunny",
   "license": "MIT"
 }
